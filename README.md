@@ -1,7 +1,7 @@
-SecretSafe: Secure Encryption & Decryption Web App 🔐
+ENDECRYPT: Secure Encryption & Decryption Web App 🔐
 Overview
 SecretSafe is a web app built with Streamlit and Python that allows users to securely encrypt and decrypt messages with three levels of encryption (Low, Medium, High). 
-Users can also add password protection for extra security.
+\nUsers can also add password protection for extra security.
 
 Features
 Three Encryption Levels:
